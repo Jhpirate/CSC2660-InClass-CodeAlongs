@@ -1,0 +1,11 @@
+id,item_name,qtyOnHand,itemCost,itemPrice,warehouse
+1,Merismatium Lichen,249,50.94,200.06,A
+2,Dense False Gilyflower,194,60.37,433.96,B
+3,Texas Sensitive Pea,126,91.82,236.09,A
+4,Southern Jointweed,97,96.69,454.07,A
+5,Racomitrium Moss,3,20.78,226.67,A
+6,Treetrunk Polypody,169,91.49,156.66,C
+7,Coriander,68,49.27,445.28,B
+8,Lake Tahoe Draba,97,21.09,87.62,A
+9,Smallhead Tetramolopium,102,77.24,491.93,A
+10,Broadleaf Woodsorrel,49,72.57,114.02,C
